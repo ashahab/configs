@@ -1,0 +1,20 @@
+pane	tensorflow	1	:tf	0	:	1	:/home/ashahab/dev/tensorflow-build_trunk/build/tf-image/tensorflow	1	bash	:
+pane	tensorflow	1	:tf	0	:	2	:/home/ashahab/dev/tensorflow-build_trunk	0	bash	:
+pane	tensorflow	2	:tf-io	0	:	1	:/home/ashahab	1	bash	:
+pane	tensorflow	2	:tf-io	0	:	2	:/home/ashahab	0	bash	:
+pane	tensorflow	3	:kube	1	:*Z	1	:/home/ashahab/dev/kingkong-server/kingkong-server	1	bash	:
+pane	tensorflow	3	:kube	1	:*Z	2	:/home/ashahab/dev/kingkong-server	0	bash	:
+pane	tensorflow	4	:ray	0	:	1	:/home/ashahab	1	bash	:
+pane	tensorflow	4	:ray	0	:	2	:/home/ashahab/dev/ray/python	0	bash	:
+pane	tensorflow	5	:horovod	0	:-	1	:/home/ashahab/dev/horovod	1	bash	:
+pane	tensorflow	5	:horovod	0	:-	2	:/home/ashahab/dev/li-astro	0	ssh	:ssh -k ltx1-hcl7372.grid.linkedin.com
+pane	tf-2	1	:tf	0	:#-	1	:/home/ashahab	1	bash	:
+pane	tf-2	2	:tf-io	1	:*	1	:/home/ashahab	1	bash	:
+window	tensorflow	1	0	:	794b,478x91,0,0{241x91,0,0,1,236x91,242,0,2}
+window	tensorflow	2	0	:	5ffe,478x91,0,0{200x91,0,0,3,277x91,201,0,4}
+window	tensorflow	3	1	:*Z	b02a,478x91,0,0{257x91,0,0,5,220x91,258,0,8}
+window	tensorflow	4	0	:	1ca4,478x91,0,0{277x91,0,0,9,200x91,278,0,10}
+window	tensorflow	5	0	:-	f4cb,478x91,0,0{238x91,0,0,11,239x91,239,0,12}
+window	tf-2	1	0	:#-	69e2,238x68,0,0,13
+window	tf-2	2	1	:*	69e3,238x68,0,0,14
+state	tensorflow	

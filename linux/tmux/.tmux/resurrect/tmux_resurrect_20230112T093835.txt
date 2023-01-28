@@ -1,0 +1,20 @@
+pane	tensorflow	1	:tf	0	:#	1	:/home/ashahab/dev/tensorflow-build_trunk/build/tf-image/tensorflow	1	bash	:
+pane	tensorflow	1	:tf	0	:#	2	:/home/ashahab/dev/tf2-trainer_trunk	0	bash	:
+pane	tensorflow	2	:tf-io	0	:#Z	1	:/home/ashahab/dev/tensorflow-io-mp_trunk	0	bash	:
+pane	tensorflow	2	:tf-io	0	:#Z	2	:/home/ashahab/dev/k2-machinelearning-lib	1	bash	:
+pane	tensorflow	3	:ray	1	:*	1	:/home/ashahab/dev/tb-on-demand	1	bash	:
+pane	tensorflow	3	:ray	1	:*	2	:/home/ashahab/dev/kingkong-server	0	bash	:
+pane	tensorflow	4	:k2	0	:#	1	:/home/ashahab/dev	0	bash	:
+pane	tensorflow	4	:k2	0	:#	2	:/home/ashahab/dev/k2-conflation	1	bash	:
+pane	tensorflow	5	:horovod	0	:#-	1	:/home/ashahab/dev/horovod/test	1	bash	:
+pane	tensorflow	5	:horovod	0	:#-	2	:/home/ashahab	0	bash	:
+pane	tf-2	1	:tf	0	:#-	1	:/home/ashahab	1	bash	:
+pane	tf-2	2	:tf-io	1	:*	1	:/home/ashahab	1	bash	:
+window	tensorflow	1	0	:#	d39c,426x75,0,0{215x75,0,0,1,210x75,216,0,2}
+window	tensorflow	2	0	:#Z	c2bf,426x75,0,0{213x75,0,0,3,212x75,214,0,4}
+window	tensorflow	3	1	:*	c2c2,426x75,0,0{213x75,0,0,5,212x75,214,0,6}
+window	tensorflow	4	0	:#	c2c5,426x75,0,0{213x75,0,0,7,212x75,214,0,8}
+window	tensorflow	5	0	:#-	9d80,426x75,0,0{212x75,0,0,9,213x75,213,0,10}
+window	tf-2	1	0	:#-	6460,426x75,0,0,11
+window	tf-2	2	1	:*	6461,426x75,0,0,12
+state	tensorflow	

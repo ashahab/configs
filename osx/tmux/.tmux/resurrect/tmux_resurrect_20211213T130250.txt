@@ -1,0 +1,11 @@
+pane	kube	1	:ld4	0	:-	1	:/Users/ashahab	1	zsh	:
+pane	kube	2	:ld5	1	:*	1	:/Users/ashahab	1	zsh	:
+pane	kube	3	:ld3	0	:	1	:/Users/ashahab	1	zsh	:
+pane	kube	4	:livetf	0	:	1	:/Users/ashahab/dev/TonY	1	zsh	:
+pane	kube	5	:tf-metrics	0	:	1	:/Users/ashahab	1	zsh	:
+window	kube	1	0	:-	b3de,440x80,0,0,1
+window	kube	2	1	:*	b3df,440x80,0,0,2
+window	kube	3	0	:	b3e1,440x80,0,0,4
+window	kube	4	0	:	b3e2,440x80,0,0,5
+window	kube	5	0	:	b3e3,440x80,0,0,6
+state	kube	

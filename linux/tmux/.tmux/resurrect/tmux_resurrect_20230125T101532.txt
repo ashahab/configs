@@ -1,0 +1,20 @@
+pane	tensorflow	1	:tf	0	:#	1	:/home/ashahab/dev/tensorflow-build_trunk/build/tf-image/tensorflow	1	bash	:
+pane	tensorflow	1	:tf	0	:#	2	:/home/ashahab/dev/tf2-trainer_trunk	0	bash	:
+pane	tensorflow	2	:tf-io	0	:#Z	1	:/home/ashahab/dev/tensorflow-io-mp_trunk	0	bash	:
+pane	tensorflow	2	:tf-io	0	:#Z	2	:/home/ashahab	1	bash	:
+pane	tensorflow	3	:ray	1	:*	1	:/home/ashahab/dev/vilbert-ray	1	bash	:
+pane	tensorflow	3	:ray	1	:*	2	:/home/ashahab/dev/vilbert-ray	0	bash	:
+pane	tensorflow	4	:k2	0	:-	1	:/home/ashahab/dev	0	bash	:
+pane	tensorflow	4	:k2	0	:-	2	:/home/ashahab	1	bash	:
+pane	tensorflow	5	:horovod	0	:#	1	:/home/ashahab/dev/horovod/test	1	bash	:
+pane	tensorflow	5	:horovod	0	:#	2	:/home/ashahab	0	bash	:
+pane	tf-2	1	:tf	0	:#-	1	:/home/ashahab	1	bash	:
+pane	tf-2	2	:tf-io	1	:*	1	:/home/ashahab	1	bash	:
+window	tensorflow	1	0	:#	ae4e,340x81,0,0{172x81,0,0,1,167x81,173,0,2}
+window	tensorflow	2	0	:#Z	9d71,340x81,0,0{170x81,0,0,3,169x81,171,0,4}
+window	tensorflow	3	1	:*	cea8,443x81,0,0{222x81,0,0,5,220x81,223,0,6}
+window	tensorflow	4	0	:-	ceab,443x81,0,0{222x81,0,0,7,220x81,223,0,8}
+window	tensorflow	5	0	:#	8ced,340x81,0,0{169x81,0,0,9,170x81,170,0,10}
+window	tf-2	1	0	:#-	5c10,340x81,0,0,11
+window	tf-2	2	1	:*	5c11,340x81,0,0,12
+state	tensorflow	tf-2
